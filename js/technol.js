@@ -70,5 +70,5 @@ $(document).ready(function() {
 });
 
 function setCoverImage(){
-  $(".intro-container").css("background-image", "url('/technol/images/" + coverImage + "')");  
+  $(".intro-container").css("background-image", "url('images/" + coverImage + "')");  
 }
